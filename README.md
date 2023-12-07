@@ -1,3 +1,12 @@
-# the-last-of-us
+<h1>Screenshot da aplicação</h1>
 
-Aplicação web que realiza uma breve apresentação da série "The Last of Us"
+
+<div align="center">
+  <img  width=800 src="./src/img/last.png" alt="personagens caminhando"/>
+</div>
+
+
+
+
+
+
